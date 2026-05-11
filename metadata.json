@@ -1,0 +1,6 @@
+{
+  "name": "PC Builder Simulator",
+  "description": "Choose parts to build a PC, ensuring component compatibility and sufficient power supply to successfully boot the machine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
